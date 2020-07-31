@@ -2,7 +2,9 @@
 
 This repository contains the implementation of the Recommender System Based on Classifiers (Section 4.3). 
 
-![arch](img.png)
+<p align="center"> 
+    <img src="img.png" width="500">
+</p>
 
 ### Results
 
