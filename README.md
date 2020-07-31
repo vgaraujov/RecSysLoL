@@ -1,10 +1,11 @@
 ## Data Mining for Item Recommendation in MOBA Games
 
-This repository contains the implementation of the Recommender System Based on Classifiers (Section 4.3). 
-
 <a href="https://colab.research.google.com/github/vgaraujov/RecSysLoL/blob/master/RecSysLoLClassifers.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+This repository contains the implementation of the Recommender System Based on Classifiers (Section 4.3). 
+The models are based on neural networks, logistic regression, and decision trees.
 
 <p align="center"> 
     <img src="img.png" width="500">
