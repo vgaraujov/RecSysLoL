@@ -1,6 +1,6 @@
 ## Data Mining for Item Recommendation in MOBA Games
 
-<a href="https://colab.research.google.com/github/vgaraujov/RecSysLoL/blob/master/RecSysLoLClassifers.ipynb">
+<a href="https://colab.research.google.com/github/vgaraujov/RecSysLoL/blob/master/RecSysLoLClassifiers.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
